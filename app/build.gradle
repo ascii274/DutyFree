@@ -7,8 +7,8 @@ android {
         applicationId "ascii274.dutyfree"
         minSdkVersion 19
         targetSdkVersion 26
-        versionCode 10202
-        versionName '1.0202'
+        versionCode 10208
+        versionName '1.0208'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
